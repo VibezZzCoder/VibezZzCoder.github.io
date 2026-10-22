@@ -18,6 +18,10 @@ The old path is a directory in THIS repository, not a separate repository. **Nev
 
 GitHub does not automatically redirect a renamed project's Pages URL. After the project rename, the root site serves `usaf-hangar-fighter/index.html`. It provides an immediate JavaScript replacement navigation (preserving query and fragment), a no-JavaScript meta-refresh, a canonical URL and a readable link. This is a static HTML redirect served with HTTP 200, not a server-side 301.
 
+## Preserved legacy file links
+
+The former site's three scenario PNGs and GPL `LICENSE` are retained byte-for-byte under `usaf-hangar-fighter/`; its README is retained there with the current game name and play link. This also keeps direct file links and README-relative screenshot links working. Those game files retain the game's existing GPL terms and attribution.
+
 ## Add a future game redirect
 
 1. Verify the new game URL is deployed and works.
