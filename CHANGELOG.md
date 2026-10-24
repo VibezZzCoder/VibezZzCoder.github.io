@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-24
+
+- Added NYC Spin-off: EUC Thrills to the arcade and updated the game count to twelve.
+
 ## 2026-10-22
 
 - Added a responsive arcade homepage linking to eleven verified published browser games.

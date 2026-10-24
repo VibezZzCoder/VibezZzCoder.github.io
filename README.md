@@ -2,7 +2,7 @@
 
 Public arcade: https://vibezzzcoder.github.io/
 
-This repository hosts the account's root GitHub Pages site. Games remain in their own repositories and retain their own licenses and credits. The homepage lists only browser games whose Pages endpoints were verified live on 2026-10-22.
+This repository hosts the account's root GitHub Pages site. Games remain in their own repositories and retain their own licenses and credits. The homepage lists only browser games with verified live Pages endpoints.
 
 ## Hosting
 
