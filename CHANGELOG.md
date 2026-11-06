@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-06
+
+- Added SF Spin-off: EUC Thrills to the arcade as Early Access / Work in Progress and updated the game count to thirteen.
+
 ## 2026-10-24
 
 - Added NYC Spin-off: EUC Thrills to the arcade and updated the game count to twelve.
