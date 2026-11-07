@@ -2,6 +2,8 @@
 
 ## 2026-11-07
 
+- Sorted the arcade alphabetically by displayed game title and renumbered the fourteen cards.
+
 - Added EUC Lonely Chills to the arcade and updated the game count to fourteen.
 
 ## 2026-11-06
