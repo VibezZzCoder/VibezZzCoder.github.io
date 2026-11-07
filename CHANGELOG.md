@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-07
+
+- Added EUC Lonely Chills to the arcade and updated the game count to fourteen.
+
 ## 2026-11-06
 
 - Added SF Spin-off: EUC Thrills to the arcade as Early Access / Work in Progress and updated the game count to thirteen.
