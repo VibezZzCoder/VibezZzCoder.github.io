@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-15
+
+- Redesigned the arcade with the approved After Hours cabinet layout and fourteen authentic gameplay screenshots, preserving A–Z order, direct game links, and the San Francisco work-in-progress label. — Codex
+
 ## 2026-11-07
 
 - Sorted the arcade alphabetically by displayed game title and renumbered the fourteen cards.
