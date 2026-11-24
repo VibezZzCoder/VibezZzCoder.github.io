@@ -2,6 +2,8 @@
 
 ## 2026-11-24
 
+- Swapped the San Juan arcade card to a gameplay screenshot of Paseo del Morro, highlighting Old San Juan’s waterfront and historic fortifications. — Codex
+
 - Added San Juan Spin-off: EUC Thrills in A–Z order using its El Bowl in La Perla gameplay screenshot. The arcade now lists fifteen games. — Codex
 
 ## 2026-11-15
