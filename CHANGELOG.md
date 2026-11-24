@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-24
+
+- Added San Juan Spin-off: EUC Thrills in A–Z order using its El Bowl in La Perla gameplay screenshot. The arcade now lists fifteen games. — Codex
+
 ## 2026-11-15
 
 - Redesigned the arcade with the approved After Hours cabinet layout and fourteen authentic gameplay screenshots, preserving A–Z order, direct game links, and the San Francisco work-in-progress label. — Codex
